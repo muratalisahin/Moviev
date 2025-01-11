@@ -1,4 +1,4 @@
-# Moview-Film<br> <br>
+
 MoviewApp
 
 HTML, CSS ve JavaScript kullanarak geliştirilmiş, TheMovieDB API'si üzerinden en popüler filmleri listeleyen ve arama özelliği sunan basit bir film arama uygulamasıdır.
@@ -14,6 +14,8 @@ HTML5
 CSS3
 JavaScript
 TheMovieDB AP
+
+
 
 
 
