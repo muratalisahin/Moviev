@@ -1,5 +1,5 @@
 
-<h3>
+<h4>
 🎬 Flicks&Frames
 Sinema tutkunları için özel olarak tasarlanmış bir keşif platformu olan , popüler ve çok aranan filmleri kolayca bulmanıza yardımcı olur.
 The Movie Database API kullanılarak geliştirilmiş bu web platformu, modern tasarımı ve kullanıcı dostu olarak öne çıkıyor.
@@ -19,7 +19,8 @@ The Movie Database API kullanılarak geliştirilmiş bu web platformu, modern ta
 iletişim:@<br>
 muratalisahin61@gmail.com<br>
 linkedin iletişim:https://www.linkedin.com/in/muratalisahin/<br>
-</h3><br>
+</h4><br>
+Ekran Demosu <br>
 
 ![movie-app-gif)](https://github.com/user-attachments/assets/10702d29-56af-4d5f-ba16-1b1a4a384317)
 
