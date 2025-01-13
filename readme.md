@@ -1,7 +1,7 @@
 
 <h3>
 🎬 Flicks&Frames
-Sinema tutkunları için özel olarak tasarlanmış bir keşif platformu olan Flicks&Frames, popüler ve çok aranan filmleri kolayca bulmanıza yardımcı olur.
+Sinema tutkunları için özel olarak tasarlanmış bir keşif platformu olan , popüler ve çok aranan filmleri kolayca bulmanıza yardımcı olur.
 The Movie Database API kullanılarak geliştirilmiş bu web platformu, modern tasarımı ve kullanıcı dostu olarak öne çıkıyor.
 
 🔎 Öne Çıkan Özellikler:<br>
