@@ -1,19 +1,27 @@
 
-MoviewApp
+<h3>
+🎬 Flicks&Frames
+Sinema tutkunları için özel olarak tasarlanmış bir keşif platformu olan Flicks&Frames, popüler ve çok aranan filmleri kolayca bulmanıza yardımcı olur.
+The Movie Database API kullanılarak geliştirilmiş bu web platformu, modern tasarımı ve kullanıcı dostu olarak öne çıkıyor.
 
-HTML, CSS ve JavaScript kullanarak geliştirilmiş, TheMovieDB API'si üzerinden en popüler filmleri listeleyen ve arama özelliği sunan basit bir film arama uygulamasıdır.
+🔎 Öne Çıkan Özellikler:<br>
+🖼 Şık ve Modern Tasarım: Estetik açıdan hoş ve kullanıcı dostu bir arayüz.<br>
+⭐️ Puanlama Sistemi: Filmler, oylama sonuçlarına göre yeşil (harika), turuncu (orta) ve kırmızı (düşük) renklerde kategorize edilir.<br>
+📊 Popüler Filmleri Keşfet: En çok tercih edilen ve yüksek puanlı filmleri listeleyin.<br>
+🔎 Hızlı Arama Fonksiyonu: Filmleri hemen bulmanızı sağlayacak güçlü arama aracı.<br>
+🛠🗹 API Entegrasyonu: Güncel film verileri için The Movie Database API kullanılıyor.<br>
+🛠🗹 Kullanılan Teknolojiler:<br>
+🗹HTML5<br>
+🗹CSS3<br>
+🗹JavaScript (ES6)<br>
+🗹The Movie Database API<br>
 
-Ana Özellikler:
+iletişim:@<br>
+muratalisahin61@gmail.com<br>
+linkedin iletişim:https://www.linkedin.com/in/muratalisahin/<br>
+</h3><br>
 
-Popüler Filmler: En güncel ve popüler 20 filmi listeler.
-Arama: Film ismi ile arama yapma imkanı.
-Film Detayları: Her film için puan ve kısa açıklama.
-Teknolojiler:
-
-HTML5
-CSS3
-JavaScript
-TheMovieDB AP
+![movie-app-gif)](https://github.com/user-attachments/assets/10702d29-56af-4d5f-ba16-1b1a4a384317)
 
 
 
